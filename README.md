@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65c8ec6bd789a518cf2ae470?variant=dark)](https://roadmap.sh)
+<a href="https://daily.dev/breannye"><img src="https://api.daily.dev/devcards/v2/Z02IrzAxkDCdtBVYo9FhM.png?type=default&r=qiy" width="356" alt="Pavel Kasler's Dev Card"/></a>
