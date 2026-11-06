@@ -38,6 +38,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/breannye/breannye/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/breannye/breannye/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/breannye/breannye/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/breannye/breannye/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
+
+###
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media.giphy.com/media/AmACzwtjcoL0vBmecO/giphy.gif"  />
