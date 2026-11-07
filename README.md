@@ -40,21 +40,7 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/breannye/breannye/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
 
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/breannye/breannye/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/breannye/breannye/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/breannye/breannye/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-###
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media.giphy.com/media/AmACzwtjcoL0vBmecO/giphy.gif"  />
